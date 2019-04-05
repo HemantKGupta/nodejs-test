@@ -1,15 +1,19 @@
 {
   "name": "nodejs-test",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HemantKGupta/nodejs-test.git"
+    "url": "git+https://github.com/HemantKGupta/nodejs-test.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HemantKGupta/nodejs-test/issues"
+  },
+  "homepage": "https://github.com/HemantKGupta/nodejs-test#readme",
+  "description": ""
 }
